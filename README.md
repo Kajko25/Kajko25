@@ -43,7 +43,7 @@ Hands-on blockchain builder who learns new chains by shipping real, verified on-
 | --- | --- | --- |
 | 🛡️ **DAO-WARDEN** | AI guardian agent that detects DAO governance attacks (BONK-class vote-buying) in real time, and reacts — auto-vote / auto-cancel via timelock. ERC-8004 identity + on-chain audit trail. Built on Arc Testnet. | [📂 Source](https://github.com/Kajko25/dao-warden) |
 | 🤝 **PactAI** | Agent-to-agent job protocol: USDC escrow (`JobEscrow`) that pays an executor agent only on verified task completion, with refund-on-timeout as a first-class path. Flagship demo: *SlotScout*, hunting scarce appointment slots. Built for the "Build on Arc" hackathon (Agentic Economy track). | [📂 Source](https://github.com/Kajko25/pactai) |
-| 🪶 **Kokosh** | An ERC-8004-registered wallet-hygiene agent on **Base mainnet** — scans a wallet's approvals and holdings, flags scam/impersonation tokens, revokes what shouldn't be there, and sells its own `/audit` as a paid **x402** service. Wired into **Base MCP**, runs its checks on a schedule, and attests what it finds on-chain via EAS. | [📂 Source](https://github.com/Kajko25/kokosh) *(private)* |
+| 🪶 **Kokosh** | An ERC-8004-registered wallet-hygiene agent on **Base mainnet** — scans a wallet's approvals and holdings, flags scam/impersonation tokens, revokes what shouldn't be there, and sells its own `/audit` as a paid **x402** service. Wired into **Base MCP**, runs its checks on a schedule, and attests what it finds on-chain via EAS. | [📂 Source](https://github.com/Kajko25/kokosh) |
 
 ---
 
